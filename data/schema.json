@@ -1,0 +1,19 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "required": ["speaker", "text"],
+    "properties": {
+      "speaker": {
+        "type": "string",
+        "enum": ["Customer", "Agent"]
+      },
+      "text": {
+        "type": "string",
+        "minLength": 1
+      }
+    },
+    "additionalProperties": false
+  }
+}
