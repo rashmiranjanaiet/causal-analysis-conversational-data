@@ -1,0 +1,4 @@
+Based on the previous explanation:
+Identify whether the same causal pattern appears in other transcripts.
+Do not repeat previously used transcript IDs.
+Maintain causal consistency.
