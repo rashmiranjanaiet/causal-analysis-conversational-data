@@ -1,0 +1,13 @@
+{
+  "outcome_event": "Delivery Investigation",
+  "causal_factors": [
+    "Customer reported item marked delivered but not received"
+  ],
+  "evidence": [
+    {
+      "speaker": "Customer",
+      "text": "The tracking was marked delivered but I never received it."
+    }
+  ],
+  "summary": "Delivery investigations occur when customers report missing items despite delivery confirmation."
+}
