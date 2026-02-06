@@ -1,0 +1,6 @@
+Why does the specified outcome event occur?
+
+Analyze conversational transcripts and:
+1. Identify causal dialogue factors
+2. Extract supporting evidence
+3. Provide a structured explanation
